@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308629439095",
+    "project_id": "wacitt-73d40",
+    "storage_bucket": "wacitt-73d40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308629439095:android:35030887ac4dd69735bc72",
+        "android_client_info": {
+          "package_name": "com.example.wacitt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308629439095-e4tnra7kuk65t49fqt1f5tnb78ao9v3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWlWMlghb_hyi4Ib0fkXnV6f-hpCIIs-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308629439095-e4tnra7kuk65t49fqt1f5tnb78ao9v3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
